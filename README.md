@@ -18,9 +18,8 @@ Każdy, kto czuje się okradany stara się unikać kosztów, metody się zmienia
 kwestia:
 + prowadzenia działalności
 + rezydencja podatkowa
-+ 
-+  nowe technologie
-+  
++ nowe technologie
+  
 
 
 Wszystko ma wpływ na sposób tworzenia i egzekwowania prawa.
